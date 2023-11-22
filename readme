@@ -1,0 +1,22 @@
+# Prime Number Checker
+
+## Author
+Jeremiah
+
+## Description
+This Python program checks whether a given number is a prime number or not. It prompts the user to enter a number and then determines if it is prime. The program uses a basic method of checking divisors to make this determination.
+
+## Usage
+1. Run the program.
+2. You will be prompted to enter a number or '0' to quit.
+3. Enter a positive integer to check if it's a prime number.
+4. The program will display whether the entered number is prime or not.
+5. If you want to check another number, enter 'y' when prompted; otherwise, enter 'n' to exit the program.
+
+## Notes
+- The program checks the divisibility of the entered number by all numbers from 1 to the entered number.
+- The user can exit the program at any time by entering '0' or 'n' when prompted.
+- The program handles invalid inputs gracefully and prompts the user to enter valid input.
+
+## Last Updated
+3/27/2020
